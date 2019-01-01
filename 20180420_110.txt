@@ -1,7 +1,0 @@
-ac@abc.pt; 10
-
-rg@xyz.pt; 11
-bc@abc.pt; 13
-ls@xya.pt; 12
-bg@xyz.pt;14
-bs@xyz.pt;  15

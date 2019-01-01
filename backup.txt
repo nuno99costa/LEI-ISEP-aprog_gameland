@@ -1,6 +1,0 @@
-ac@abc.pt;Ana Costa;31/1/2005;The Best;10;0;0;0;0;0;
-rg@xyz.pt;Rui Gomes;11/2/1999;The Best;11;0;0;0;0;0;
-ls@xya.pt;Luís Sá Silva;1/12/2000;The Best;12;0;0;0;0;0;
-﻿bc@abc.pt;Ana Costa;31/1/2105;HardBest;0;0;0;0;0;0;
-bg@xyz.pt;Rui Gomes;11/2/1299;HardBest;14;0;0;0;0;0;
-bs@xyz.pt;Luís Sá Silva;1/12/2010;HardBest;15;0;0;0;0;0;

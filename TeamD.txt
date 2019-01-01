@@ -1,4 +1,0 @@
-﻿bc@abc.pt; Ana Costa; 31/1/2105; HardBest
-bg@xyz.pt;Rui Gomes; 11/2/1299 ; HardBest
-bs@xyz.pt;Luís Sá Silva; 1/12/2010 ; HardBest
-
