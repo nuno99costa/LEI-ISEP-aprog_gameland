@@ -1,0 +1,4 @@
+ac@abc.pt;          Ana Costa;  31/1/2005;  The Best
+
+rg@xyz.pt;Rui Gomes;    11/2/1999   ;   The Best
+ls@xya.pt;Luís Sá Silva;    1/12/2000   ;   The Best
